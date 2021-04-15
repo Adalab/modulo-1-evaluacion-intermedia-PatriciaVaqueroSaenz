@@ -1,11 +1,7 @@
 /*
   Hoja de reset basada en:
     <https://beta.adalab.es/resources/stylesheets/reset.css>
-    <https://meyerweb.com/eric/tools/css/reset/>
-
-  NOTA: Ningún árbol ha sido talado en la elaboración
-        de esta hoja de estilos 🌳
-*/
+    <https://meyerweb.com/eric/tools/css/reset/>*/
 :root {
   font-size: 24px;
 }
